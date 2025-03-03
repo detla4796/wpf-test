@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp"
         mc:Ignorable="d"
-        Title="Резюме" Height="450" Width="800">
+        Title="Resume" Height="450" Width="800">
     <Grid>
         <Button Content="Show Resume" Width="150" Height="50" Click="ShowResume_Click" Margin="30,27,620,357"/>
         <Button Content="Guess Number" Width="150" Height="50" Click="GuessNumber_Click" Margin="618,22,32,362"/>
