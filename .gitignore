@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Build
+bin/
+obj/
+*.cache
+*.ilk
+*.pdb
+*.ipch
+*.tlog
+*.log
+*.csproj.user
+*.rsuser
+
+# Dependencies
+packages/
+node_modules/
+project.lock.json
+*.lock.json
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.sln.iml
+
+# Misc
+*.db
+*.mdb
+*.bak
+Thumbs.db
+Desktop.ini
